@@ -9,5 +9,5 @@ phases:
       - echo Build complete.
 artifacts:
   files:
-    - target/AwsLibrary.jar
+    - target/AwsLibrary-project.jar
   discard-paths: yes
