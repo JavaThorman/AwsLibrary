@@ -3,7 +3,7 @@
   phases:
     install:
       runtime-versions:
-        java: corretto21
+        java: jdk17
     pre_build:
       commands:
         - echo Nothing to do in the pre_build phase...
