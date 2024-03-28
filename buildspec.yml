@@ -3,7 +3,7 @@
   phases:
     install:
       runtime-versions:
-        java: coretto21
+        java: corretto21
     pre_build:
       commands:
         - echo Nothing to do in the pre_build phase...
